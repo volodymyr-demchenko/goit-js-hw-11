@@ -1,1 +1,1 @@
-export const getImagesByQuery(query) { };
+export const getImagesByQuery = query => {};
